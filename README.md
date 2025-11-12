@@ -1,8 +1,15 @@
-<img alt="GitHub License" src="https://img.shields.io/github/license/suleymangunel/ePaperV2?style=plastic">
-
+<div class="sag">
+    <th><img alt="GitHub License" src="https://img.shields.io/github/license/suleymangunel/ePaperV2?label=License&style=plastic"></th>
+    <th><img alt="Static Badge" src="https://img.shields.io/badge/Language-C-red?style=plastic"></th>
+    <th><img alt="Static Badge" src="https://img.shields.io/badge/Platform-ESP32%2FS3-blue?style=plastic"></th>
+    <th><img alt="Static Badge" src="https://img.shields.io/badge/Framework-ESP%E2%94%80IDF-white?style=plastic"></th>
+    <th><img alt="Static Badge" src="https://img.shields.io/badge/OS-FreeRTOS-black?style=plastic"></th>
+</div>
 
 # ESP32S3-ePaper-WaveShare213v4-154v2
 
+
+## Description
 > Minimal ESP-IDF + LVGL driver demo for Waveshare 2.13"v4/1.54"v2 E-Paper (SSD1680) display.
 
 This project demonstrates how to integrate the **LVGL graphics library** with a **Waveshare 2.13" e-paper display (SSD1680 controller)** using **ESP-IDF** on an **ESP32-S3 DevKitC-1**.  
