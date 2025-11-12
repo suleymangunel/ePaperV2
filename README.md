@@ -1,4 +1,4 @@
-React Node.js Express Vite TailwindCSS Docker JWT License
+
 
 # ESP32S3-ePaper-WaveShare213v4-154v2
 
