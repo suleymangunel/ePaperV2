@@ -1,4 +1,4 @@
-https://img.shields.io/gem/v/does-not-exist
+
 
 # ESP32S3-ePaper-WaveShare213v4-154v2
 
