@@ -1,3 +1,5 @@
+React Node.js Express Vite TailwindCSS Docker JWT License
+
 # ESP32S3-ePaper-WaveShare213v4-154v2
 
 > Minimal ESP-IDF + LVGL driver demo for Waveshare 2.13"v4/1.54"v2 E-Paper (SSD1680) display.
