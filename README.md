@@ -1,4 +1,5 @@
-<img alt="GitHub License" src="https://img.shields.io/github/license/suleymangunel/ePaperV2">
+<img alt="GitHub License" src="https://img.shields.io/github/license/suleymangunel/ePaperV2?style=plastic">
+
 
 # ESP32S3-ePaper-WaveShare213v4-154v2
 
