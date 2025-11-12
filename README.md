@@ -125,7 +125,4 @@ Waveshare 2.13" V4 E-Paper Datasheet (SSD1680)
 Espressif ESP-IDF
 ```
 
-## ✨ Author
-    Süleyman Günel
-    Embedded AI & IoT Systems Developer
 
