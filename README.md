@@ -7,7 +7,7 @@
     <th><img alt="Static Badge" src="https://img.shields.io/badge/OS-FreeRTOS-black?style=plastic"></th>
 </div>
 
-# ESP32S3-ePaper-WaveShare213v4-154v2
+# ePaperV2
 
 
 ## Description
