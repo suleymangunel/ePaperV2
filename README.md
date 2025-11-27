@@ -16,18 +16,10 @@
 This project demonstrates how to integrate the **LVGL graphics library** with a **Waveshare 1.54"/2.13" e-paper display (SSD1680 controller)** using **ESP-IDF** on an **ESP32-S3 DevKitC-1**.  
 It handles full SPI communication, monochrome buffer rotation, LVGL framebuffer flushing, and custom font rendering.
 
-<div>
-    <th>
-        
-        https://github.com/user-attachments/assets/17ffaf29-3256-4fb5-a992-ef43f3f81d72
-        
-    </th>
-    <th>
-        
-        https://github.com/user-attachments/assets/652cde6e-650d-42f4-9aed-f15a2d02f8eb
-        
-    </th>
-</div>
+https://github.com/user-attachments/assets/17ffaf29-3256-4fb5-a992-ef43f3f81d72
+      
+https://github.com/user-attachments/assets/652cde6e-650d-42f4-9aed-f15a2d02f8eb
+
 ---
 
 ## 🖥️ Features
