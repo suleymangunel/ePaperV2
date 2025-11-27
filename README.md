@@ -86,18 +86,12 @@ bash
 git clone https://github.com/suleymangunel/ePaperV2.git .
 cd ePaperV2
 idf.py set-target esp32s3
-idf.py menuconfig
 ```
 
-*** Enable or verify:
-```
-LVGL and esp_lvgl_port
-SPI peripheral support
-```
 ### 3. Build & Flash
 ```
 idf.py build
-idf.py -p /dev/ttyUSB0 flash monitor
+idf.py flash monitor
 ```
 
 
@@ -121,7 +115,8 @@ See the LICENSE file for details.
 ```
 ## 📚 References
 ```
-LVGL Documentation
+LVGL Documentation,
+Waveshare 1.54" V2 E-Paper Datasheet (SSD1680)
 Waveshare 2.13" V4 E-Paper Datasheet (SSD1680)
 Espressif ESP-IDF
 ```
