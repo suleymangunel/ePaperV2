@@ -82,8 +82,7 @@ It handles full SPI communication, monochrome buffer rotation, LVGL framebuffer 
 
 ### 2. Clone & Configure
 ```
-bash
-git clone https://github.com/suleymangunel/ePaperV2.git .
+git clone https://github.com/suleymangunel/ePaperV2.git
 cd ePaperV2
 idf.py set-target esp32s3
 ```
