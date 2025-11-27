@@ -11,7 +11,7 @@
 
 
 ## Description
-> Minimal ESP-IDF + LVGL driver demo for Waveshare 2.13"v4/1.54"v2 E-Paper (SSD1680) display.
+> Minimal ESP-IDF + LVGL driver demo for Waveshare 1.54"v2/2.13"v4 E-Paper (SSD1680) display.
 
 This project demonstrates how to integrate the **LVGL graphics library** with a **Waveshare 1.54"/2.13" e-paper display (SSD1680 controller)** using **ESP-IDF** on an **ESP32-S3 DevKitC-1**.  
 It handles full SPI communication, monochrome buffer rotation, LVGL framebuffer flushing, and custom font rendering.
