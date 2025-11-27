@@ -17,6 +17,7 @@ This project demonstrates how to integrate the **LVGL graphics library** with a 
 It handles full SPI communication, monochrome buffer rotation, LVGL framebuffer flushing, and custom font rendering.
 
 https://github.com/user-attachments/assets/17ffaf29-3256-4fb5-a992-ef43f3f81d72
+
 https://github.com/user-attachments/assets/652cde6e-650d-42f4-9aed-f15a2d02f8eb
 
 ---
