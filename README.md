@@ -83,11 +83,8 @@ It handles full SPI communication, monochrome buffer rotation, LVGL framebuffer 
 ### 2. Clone & Configure
 ```
 bash
-git clone https://github.com/suleymangunel/ESP32S3-ePaper-WaveShare213v4.git
-cd EInkLVGL-ESP32
-idf.py create-project ePaperV2
+git clone https://github.com/suleymangunel/ePaperV2.git .
 cd ePaperV2
-rd main /s
 idf.py set-target esp32s3
 idf.py menuconfig
 ```
