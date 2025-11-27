@@ -220,7 +220,7 @@ static void epd_display_frame(void)
     epd_wait_busy();
 }
 
-// RGB565 → Monochrome dönüşümü - 90 derece rotated
+// RGB565 → Monochrome conersion - 90 degree rotated
 static void rgb565_to_mono(const lv_color16_t *src, uint8_t *dst, int w, int h)
 {
     memset(dst, 0xFF, EPD_BUFFER_SIZE);  // Start with white
